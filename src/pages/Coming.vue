@@ -1,5 +1,5 @@
 <template>
-  <video-bg :sources="['video/video.mp4']" img="img/placeholder.jpg">
+  <video-bg :sources="['video/video.mp4']" img="img/placeholder.png">
     <!-- If you want to add content here, a slot is waiting! -->
 
     <div class="row">
